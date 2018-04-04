@@ -59,6 +59,6 @@ Rather not use the command line? Check out these options:
 [fixing-npm-permissions]: https://docs.npmjs.com/getting-started/fixing-npm-permissions
 [guidelines on contributing]: https://github.com/monadicus/modat/blob/master/CONTRIBUTING.md
 [development workflow]: https://github.com/datproject/dat/blob/master/CONTRIBUTING.md#development-workflow
-[irc-badge]: https://img.shields.io/badge/irc%20channel-%23dat%20on%20freenode-blue.svg
-[irc-channel]: https://webchat.freenode.net/?channels=monadic.us
+[irc-badge]: https://img.shields.io/badge/irc%20channel-%23monadic%2Eus%20on%20freenode-blue.svg
+[irc-channel]: https://webchat.freenode.net/?channels=monadic%2Eus
 
