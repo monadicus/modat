@@ -39,3 +39,23 @@ Rather not use the command line? Check out these options:
 
 * [Dat Desktop] - A desktop app to manage multiple dats on your desktop machine.
 * [Beaker Browser] - An experimental p2p browser with built-in support for the Dat protocol.
+
+[Dat Project]: https://datproject.org
+[Dat white paper]: https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf
+[Dat Desktop]: https://docs.datproject.org/install#desktop-application
+[Beaker Browser]: https://beakerbrowser.com
+[registry server]: https://github.com/datproject/datbase
+[share-gif]: https://raw.githubusercontent.com/datproject/docs/master/assets/cli-share.gif
+[clone-gif]: https://raw.githubusercontent.com/datproject/docs/master/assets/cli-clone.gif
+[dat-node]: https://github.com/datproject/dat-node
+[dat-ignore]: https://github.com/joehand/dat-ignore
+[new-issue]: https://github.com/monadicus/modat/issues/new
+[dat#503]: https://github.com/datproject/dat/issues/503
+[install-node]: https://nodejs.org/en/download/
+[install-node-npm]: https://docs.npmjs.com/getting-started/installing-node
+[fixing-npm-permissions]: https://docs.npmjs.com/getting-started/fixing-npm-permissions
+[guidelines on contributing]: https://github.com/monadicus/modat/blob/master/CONTRIBUTING.md
+[development workflow]: https://github.com/datproject/dat/blob/master/CONTRIBUTING.md#development-workflow
+[irc-badge]: https://img.shields.io/badge/irc%20channel-%23dat%20on%20freenode-blue.svg
+[irc-channel]: https://webchat.freenode.net/?channels=monadic.us
+
