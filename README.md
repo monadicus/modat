@@ -4,7 +4,7 @@ This is a work in progress.  I'm working on-and-off on the project, and contribu
 
 #### Questions on this Prolog implementation of DAT?
 
-Drop in to IRC here [#monadic.us][irc-channel]
+[![#monadic.us IRC channel on freenode][irc-badge]][irc-channel]
 
 #### What is DAT? 
 
@@ -15,12 +15,12 @@ Use DAT command line to share files with version control, back up data to server
 See [datproject.org](https://datproject.org), [Beaker Browser](https://beakerbrowser.com) for dat specific details.
 
 
-[![#monadic.us IRC channel on freenode][irc-badge]][irc-channel]
 
  Please file an issue or submit a pull request if interested in contributing.
 
-Questions on DAT?  
-You can [chat with the developers of DAT (not associated with this implementation): ](http://chat.datproject.org) in IRC on [#dat][irc-channel]
+Questions on DAT reference implementation?  
+
+You can [chat with the developers of DAT (not associated with this implementation): ](http://chat.datproject.org) in IRC on [#dat][dat-irc-channel]
 					
 #### What is DAT?
 
@@ -61,4 +61,5 @@ Rather not use the command line? Check out these options:
 [development workflow]: https://github.com/datproject/dat/blob/master/CONTRIBUTING.md#development-workflow
 [irc-badge]: https://img.shields.io/badge/irc%20channel-%23monadic%2Eus%20on%20freenode-blue.svg
 [irc-channel]: https://webchat.freenode.net/?channels=monadic%2Eus
+[dat-irc-channel]: https://webchat.freenode.net/?channels=dat
 
